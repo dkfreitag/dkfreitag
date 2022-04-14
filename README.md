@@ -15,3 +15,8 @@ You can also check out my online profiles or contact me:
 - **[Twitter](https://www.twitter.com/davidkfreitag)**
 
 - **[dkfreitag@gmail.com](mailto:dkfreitag@gmail.com)**
+
+
+Presentations and Speaking:
+
+- **[Git and GitHub: Building a Portfolio - April 14th, 2022](https://docs.google.com/presentation/d/1q5dYDO2zl8zZw9kDLK8owcSOLBMNRUhSpAC0zf46d2Q/edit?usp=sharing)**

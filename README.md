@@ -12,8 +12,6 @@ You can also check out my online profiles or contact me:
 
 - **[LinkedIn](https://www.linkedin.com/in/davidkfreitag)**
 
-- **[Twitter](https://www.twitter.com/davidkfreitag)**
-
 - **[dkfreitag@gmail.com](mailto:dkfreitag@gmail.com)**
 
 

@@ -19,4 +19,4 @@ Presentations and Speaking:
 
 - **[Git and GitHub: Building a Portfolio - April 14th, 2022](https://docs.google.com/presentation/d/1q5dYDO2zl8zZw9kDLK8owcSOLBMNRUhSpAC0zf46d2Q/edit?usp=sharing)**
 
-**[Data Engineering 101 - Enterprise Analytics - February 5th, 2024](https://docs.google.com/presentation/d/1sgz0E4U9Wn6NuoddFBNFoBYSnpp01tC2UcEnHuW9pHQ/edit?usp=sharing)**
+- **[Data Engineering 101 - Enterprise Analytics - February 5th, 2024](https://docs.google.com/presentation/d/1sgz0E4U9Wn6NuoddFBNFoBYSnpp01tC2UcEnHuW9pHQ/edit?usp=sharing)**

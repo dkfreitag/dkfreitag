@@ -2,7 +2,7 @@ Hello,
 
 I'm David Freitag.
 
-I am currently a **Data Engineer** at **American Family Insurance.** Prior to this, I was a Data Science Intern at Pitney Bowes, and I graduated from Baruch College with a master's degree in Information Systems/Data Analytics in May 2021. Before entering the field of data science and engineering, I worked in marketing, customer success, and K-12 education.
+I am currently a **Senior Data Engineer** at **American Family Insurance.** I build ETL pipelines that produce modeling datasets for Data Science. My work leverages cloud technologies to efficiently make data available for business decision making and predictive modeling.
 
 You can read a more detailed description of my background and skillset on the **[about page](https://www.davidfreitag.com/about/)** of my personal website, or you can view my **[resume here.](https://www.davidfreitag.com/images/david_freitag_resume.pdf)**
 
@@ -18,3 +18,5 @@ You can also check out my online profiles or contact me:
 Presentations and Speaking:
 
 - **[Git and GitHub: Building a Portfolio - April 14th, 2022](https://docs.google.com/presentation/d/1q5dYDO2zl8zZw9kDLK8owcSOLBMNRUhSpAC0zf46d2Q/edit?usp=sharing)**
+
+**[Data Engineering 101 - Enterprise Analytics - February 5th, 2024](https://docs.google.com/presentation/d/1sgz0E4U9Wn6NuoddFBNFoBYSnpp01tC2UcEnHuW9pHQ/edit?usp=sharing)**
